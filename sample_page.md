@@ -11,7 +11,7 @@ At the end of the project, the team created a 22-paged “Open Data Project Repo
 
 [Chula Vista Permit Data Web Page](https://www.chulavistaca.gov/departments/development-services/permitdata)
 
-[Open Data Project Report](https://drive.google.com/file/d/1cnpzRihVj2AXshn_Q9Ct_VXoF2aPHVI7/view)
+[Open Data Project Report](/pdf/Open Data Project Report.pdf)
 
-Final Presentation
+[Final Presentation](/pdf/Chula Vista Permit Data Final Review Presentation.pdf)
 
