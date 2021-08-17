@@ -13,7 +13,7 @@
 ---
 [DataHacks 2021: Bitcoin Ransomware Classification](/pdf/sample_presentation.pdf)
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Boxplot Length by Label.PNG?raw=true"/>
 
 
 ---
