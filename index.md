@@ -5,7 +5,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Chula Vista Building Permit Data Dashboards](/project_chula_vista)
+[Chula Vista Building Permit Data Dashboards](/project_chula_vista.md)
 <img src="images/example dashboard 1.PNG?raw=true"/>
 
 ---
