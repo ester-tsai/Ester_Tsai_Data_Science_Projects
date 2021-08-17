@@ -3,7 +3,7 @@
 ---
 [Algorithmic Trading for Gold and Gold Miner ETFs](http://example.com/)
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/example GDX chart.PNG?raw=true"/>
 
 ---
 [Chula Vista Building Permit Data Dashboards](/project_chula_vista.md)
