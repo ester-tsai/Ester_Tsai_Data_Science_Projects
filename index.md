@@ -6,7 +6,7 @@
 
 ---
 [Chula Vista Building Permit Data Dashboards](/sample_page)
-<img src="images/example dashboard 1.png?raw=true"/>
+<img src="images/example dashboard 1.PNG?raw=true"/>
 
 ---
 [DataHacks 2021: Bitcoin Ransomware Classification](/pdf/sample_presentation.pdf)
