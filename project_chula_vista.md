@@ -1,10 +1,10 @@
 ## Chula Vista Building Permit Data Dashboards
 
 ### Project Overview
-The overarching goal of this project is to help the city of Chula Vista carry out its Open Data Program. To narrow down our scope, we focused on the building permit datasets provided by the Development Services Department (DSD). Our final product is a public web page with user-friendly dashboards for Chula Vista’s building permit data.
+The overarching goal of this project is to help the city of Chula Vista carry out its Open Data Program. To narrow down our scope, the student team focused our effort on the building permit datasets provided by the Development Services Department (DSD). Our final product is a public web page with user-friendly dashboards for Chula Vista’s building permit data.
 
 Example dashboard:
-<iframe width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiY2MxYTYzOWQtZmZlYy00YTZjLThhMjktNGQxM2RkMTIzZjIzIiwidCI6IjhhMTk4ODczLTRmZWMtNGU3Ni04MTgyLWNhNDc5ZWRiYmQ2MCIsImMiOjZ9&pageName=ReportSection" frameborder="0" allowFullScreen="true"></iframe>
+<iframe width="800" height="636" src="https://app.powerbi.com/view?r=eyJrIjoiYzdiYWZmZTMtMmRmNC00NTk4LTgwNDktODM4YmVmYjkzMTU3IiwidCI6IjhhMTk4ODczLTRmZWMtNGU3Ni04MTgyLWNhNDc5ZWRiYmQ2MCIsImMiOjZ9&pageName=ReportSection" frameborder="0" allowFullScreen="true"></iframe>
 
 We want these dashboards to help homeowners and businesses make informed decisions. If this is done well, citizens can easily find the information they want online. Using data efficiently benefits the community and staff, and saves resources for the city.
 
