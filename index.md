@@ -1,9 +1,13 @@
-## Portfolio
+# Portfolio
+
+## Projects in Progress
 
 ---
 [Algorithmic Trading for Gold and Gold Miner ETFs](/project_algorithmic_trading.md)
 
 <img src="images/example GDX chart.PNG?raw=true"/>
+
+## Projects Completed
 
 ---
 [Chula Vista Building Permit Data Dashboards](/project_chula_vista.md)
