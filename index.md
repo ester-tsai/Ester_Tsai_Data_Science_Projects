@@ -15,6 +15,9 @@
 <img src="images/example dashboard 1.PNG?raw=true"/>
 
 ---
+[EEP Database Management Task Automation](/project_database_management_task_automation.md)
+
+---
 [DataHacks 2021: Bitcoin Ransomware Classification](/project_datahacks2021.md)
 
 <img src="images/Boxplot Length by Label.PNG?raw=true"/>
