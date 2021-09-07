@@ -11,7 +11,17 @@ I loved this internship experience becasue I could really see the effects of my 
 
 ### Conduct Training Sessions on Data Appending and Web Scraping
 
+[Instructions - Setting up Jupyter Notebook for Data Appending and Web Scraping](/EEP/Instructions - Setting up Jupyter Notebook for Data Appending and Web Scraping.pdf)
+
+[Template - Pandas Data Appending](/EEP/Pandas Data Appending Template.ipynb)
+
+[Template - BeautifulSoup Web Scraping](/EEP/BeautifulSoup Web Scraping Tutorial and Template.ipynb)
+
 ### Append Student Names from Multiple Sources to SEO Analytics Report and Create Tutorial for Future Interns
+
+[Instructions - Append to SEO Analytics Report](/EEP/EEP Instructions - Append Student Names to Analytics Report.pdf)
+
+[Template - Append to SEO Analytics Report](/EEP/EEP Append to Analytics Report (output cleared).ipynb)
 
 ### Recover Cities Missing from City Redirects Sheet
 
