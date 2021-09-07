@@ -17,6 +17,8 @@
 ---
 [EEP Database Management Task Automation](/project_database_management_task_automation.md)
 
+<img src="EEP/select rows.gif?raw=true"/>
+
 ---
 [DataHacks 2021: Bitcoin Ransomware Classification](/project_datahacks2021.md)
 
