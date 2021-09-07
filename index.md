@@ -3,7 +3,7 @@
 ---
 [Algorithmic Trading for Gold and Gold Miner ETFs](/project_algorithmic_trading.md)
 
-<img src="images/example GDX chart.PNG?raw=true"/>
+<img src="images/Strategy Involving GDX buy and sell thresholds.png?raw=true"/>
 
 ---
 
