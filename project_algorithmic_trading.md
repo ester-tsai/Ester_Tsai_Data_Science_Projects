@@ -17,4 +17,4 @@ Comparing 3 different strategies over a period of 13 years:
 To identify the highest-gaining buy and sell signal values for the indicator my dad and I theorized, I plotted a 3D visual:
 <img src="images/Strategy Involving GDX buy and sell thresholds.png?raw=true"/>
 
-Stay tuned for more concrete results!
+Stay tuned for more updates!
