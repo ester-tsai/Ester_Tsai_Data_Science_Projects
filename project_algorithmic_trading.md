@@ -7,10 +7,10 @@ The goal of this algorithmic trading experiment is to predict (or provide strong
 
 ### Results
 
-Comparing 3 different strategies:
-- Buy and Hold
-- Momentum Investing with Reference to Gold Miner ETF
-- Momentum Investing with 50-Day SMA and 200-Day SMA
+Comparing 3 different strategies over a period of 13 years:
+- Buy and Hold (139.04% gain)
+- Momentum Investing with Reference to Gold Miner ETF (705.71% gain)
+- Momentum Investing with 50-Day SMA and 200-Day SMA (267.68% gain)
 
 <img src="images/Total Assets Owned Over Time v2.png?raw=true"/>
 
