@@ -9,5 +9,6 @@ The project was quite a challenge because everyone on my team was fairly new to 
 ### Results
 
 [Bitcoin Ransomware Classification Project Report](pdf/Cryptocurrency_TeamCryptoWall_Report.pdf)
-<img src="images/Boxplot Length by Label.PNG?raw=true"/>
+
+<img src="images/Decision Tree Accuracies for Individual Features.PNG?raw=true"/>
 
