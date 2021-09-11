@@ -9,7 +9,7 @@ One of the tasks involved identifying which interns' SEO works helped advance th
 
 In another task, the team received a list of 5000+ invalid city and state names (misspelled or completely wrong), and for each location we had to search up the correct location name and its coordinates, or mark the name as "remove". The team started out searching every name up manually, and each row took 30 seconds to 2 minutes to complete. If each team member contributed 2 hours a day, it would take 7 days or more to complete the task, not counting the time to proof-read. It felt very inefficient to do this task row by row manually, so I attempted to web scrape with the invalid city and state names as input, and the Google-corrected names and coordinates as outputs. With some finer tweaking, I created a Python program that replaced 90% of manual work, so we were able to finish this task much earlier than planned.
 
-<img src="EEP/incorrect city names.PNG?raw=true"/>
+<img src="EEP/code successful.gif?raw=true"/>
 
 I loved this internship experience because I could really see the effects of my contribution. It finally feels like I'm using the machines rather than being used by them. Some representative tasks are:
 
@@ -29,7 +29,9 @@ I loved this internship experience because I could really see the effects of my 
 
 [Template - Append to SEO Analytics Report](/EEP/EEP Append to Analytics Report (output cleared).ipynb)
 
-### Recover Cities Missing from City Redirects Sheet
+### Assign Vendors with Invalid Locations to the Correct Market Region
+
+<img src="EEP/incorrect city names.PNG?raw=true"/>
 
 ### Allow People to Search for a Market Based on Neighborhood
 
