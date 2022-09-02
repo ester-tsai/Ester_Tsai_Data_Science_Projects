@@ -13,7 +13,6 @@ I created a 100% automated web vitals tracker for my business unit at Thermo Fis
 3. Initialize variables for all metrics
 4. Make a Google API call and receive JSON data for each URL
 5. Parse JSON file for the specific metrics wanted, then update the variables
-![image](https://user-images.githubusercontent.com/72765812/188079958-2334f60a-a1b2-4400-869d-603d15294229.png)
 7. Add a row to Excel data table for each URL each day
 
 
