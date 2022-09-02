@@ -18,7 +18,7 @@ I created a 100% automated web vitals tracker for my business unit at Thermo Fis
 
 <img src="images/Power Automate Flow.gif?raw=true"/>
 
-### Display Data Using Interactive Dashboard
+### Display Data Using Power BI
 
 (Image blurred for company data privacy)
 
