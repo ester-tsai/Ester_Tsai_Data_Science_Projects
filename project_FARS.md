@@ -8,7 +8,7 @@ For this project, we are given large datasets of product reviews, which contain 
 We sought to answer the question:
 How well can we predict whether a review comes from a verified purchase or not?
 
-### Dataset + EDA
+### Dataset Description
 The team used US Amazon Customer Reviews datasets from Amazon archives. The reviews were taken over the span of the years 2014 - 2015.
 
 The collection of reviews is organized into sub datasets for each product category. The collection contained datasets for 46 different product categories, and each dataset contains 15 features for each review. 
