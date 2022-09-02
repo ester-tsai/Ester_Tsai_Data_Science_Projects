@@ -48,4 +48,4 @@ What the Features Mean:
 
 [Final Poster Presentation](https://docs.google.com/presentation/d/1KT1pRrMsNNqqwLilf-bxJz7jnnCtfJ1ba6sJtZwbf6I/edit?usp=sharing)
 
-<img src="images/Final Poster.PNG?raw=true"/>
+<img src="images/Final Poster.png?raw=true"/>
