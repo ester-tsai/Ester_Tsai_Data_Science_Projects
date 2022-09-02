@@ -16,7 +16,7 @@ I created a 100% automated web vitals tracker for my business unit at Thermo Fis
 7. Add a row to Excel data table for each URL each day
 
 
-<img src="images/Power Automate Flow.gif.png?raw=true"/>
+<img src="images/Power Automate Flow.gif?raw=true"/>
 
 ### Display Data Using Interactive Dashboard
 
