@@ -10,6 +10,11 @@
 ## Projects Completed
 
 ---
+[Amazon Fake Review Classification](/project_FARS.md)
+
+<img src="images/Streamlit Demo.gif?raw=true"/>
+
+---
 [Chula Vista Building Permit Data Dashboards](/project_chula_vista.md)
 
 <img src="images/example dashboard 1.PNG?raw=true"/>
