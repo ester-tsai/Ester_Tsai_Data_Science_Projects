@@ -42,10 +42,10 @@ What the Features Mean:
 
 ### Steamlit Demo
 
-<img src="images/Steamlit Demo.gif?raw=true"/>
+<img src="images/Streamlit Demo.gif?raw=true"/>
 
 ### Results
 
 [Final Poster Presentation]([https://www.chulavistaca.gov/departments/development-services/permitdata](https://docs.google.com/presentation/d/1KT1pRrMsNNqqwLilf-bxJz7jnnCtfJ1ba6sJtZwbf6I/edit?usp=sharing))
 
-<img src="Final Poster.png?raw=true"/>
+<img src="/Final Poster.png?raw=true"/>
