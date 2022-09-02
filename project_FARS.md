@@ -1,7 +1,7 @@
 ## Amazon Fake Review Machine Learning Classification
 
 ### Project Overview
-For this project, we are given large datasets of product reviews, which contain details such as the review title, review text body, star rating, how many people voted “helpful,” and the time the review was posted.
+For this project, the student team (Aditya Agrawal, Ester Tsai, Kelly Park, Sukanya Krishna) was given manay large datasets of Amazon product reviews, which contain details such as the review title, review text body, star rating, how many people voted “helpful,” and the time the review was posted.
 
 **Verified** = product was bought on Amazon 
 
