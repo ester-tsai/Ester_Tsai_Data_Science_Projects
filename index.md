@@ -15,6 +15,11 @@
 <img src="images/Streamlit Demo.gif?raw=true"/>
 
 ---
+[Power Automate Web Vitals Tracker](/project_web_vitals.md)
+
+<img src="images/Power Automate Flow.gif?raw=true"/>
+
+---
 [Chula Vista Building Permit Data Dashboards](/project_chula_vista.md)
 
 <img src="images/example dashboard 1.PNG?raw=true"/>
