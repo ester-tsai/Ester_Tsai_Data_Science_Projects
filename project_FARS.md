@@ -2,11 +2,13 @@
 
 ### Project Overview
 For this project, we are given large datasets of product reviews, which contain details such as the review title, review text body, star rating, how many people voted “helpful,” and the time the review was posted.
+
 **Verified** = product was bought on Amazon 
+
 **Unverified** = product not bought on Amazon but might be bought from 3rd party seller
 
 We sought to answer the question:
-How well can we predict whether a review comes from a verified purchase or not?
+*How well can we predict whether a review comes from a verified purchase or not?*
 
 ### Dataset Description
 The team used US Amazon Customer Reviews datasets from Amazon archives. The reviews were taken over the span of the years 2014 - 2015.
