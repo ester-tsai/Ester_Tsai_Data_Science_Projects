@@ -7,25 +7,12 @@ I created a 100% automated web vitals tracker for my business unit at Thermo Fis
 ### A 3-Step Process
 <img src="images/how to track core web vitals.png?raw=true"/>
 
+### Make Scheduled Google API Calls with Power Automate Flow
 
-### Analysis
+<img src="images/Power Automate Flow.gif.png?raw=true"/>
 
-<img src="images/User Input Analysis Result in Jupyter Notebook 1.png?raw=true"/>
+### Display Data Using Interactive Dashboard
 
-What the Features Mean:
+(Image blurred for company data privacy)
 
-<img src="images/What the Features Mean.png?raw=true"/>
-
-### Jupyter Notebook Demo
-
-<img src="images/Jupyter Notebook Demo.gif?raw=true"/>
-
-### Steamlit Demo
-
-<img src="images/Streamlit Demo.gif?raw=true"/>
-
-### Results
-
-[Final Poster Presentation](https://docs.google.com/presentation/d/1KT1pRrMsNNqqwLilf-bxJz7jnnCtfJ1ba6sJtZwbf6I/edit?usp=sharing)
-
-<img src="images/Final Poster.png?raw=true"/>
+<img src="images/BLURRED Assay Web Vitals Dashboard.png?raw=true"/>
