@@ -1,4 +1,4 @@
-# Ester Tsai Data Science Project Portfolio
+# Data Science Project Portfolio
 
 ## Projects in Progress
 
