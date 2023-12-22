@@ -1,4 +1,11 @@
+# Ester Tsai Data Science Project Portfolio
+
 ## Projects in Progress
+
+---
+[Diffusion Model Scene Representation](/project_diffusion_scene_representation.md)
+
+<img src="images/bike figures?raw=true"/>
 
 ---
 [Algorithmic Trading for Gold and Gold Miner ETFs](/project_algorithmic_trading.md)
