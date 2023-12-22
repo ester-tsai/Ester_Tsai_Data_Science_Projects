@@ -1,6 +1,6 @@
 ## Diffusion Model Scene Representation 
 
-[Research Project Proposal](pdf/Diffusion Scene Representation Project Proposal.pdf)
+[Research Project Proposal](/pdf/Diffusion Scene Representation Project Proposal.pdf)
 
 # Project Overview
 
