@@ -10,6 +10,11 @@
 ## Projects Completed
 
 ---
+[Amazon Risk Analysis and Forecast](/project_Amazon.md)
+
+<img src="images/Streamlit Demo.gif?raw=true"/>
+
+---
 [Amazon Fake Review Classification](/project_FARS.md)
 
 <img src="images/Streamlit Demo.gif?raw=true"/>
