@@ -10,8 +10,8 @@ Diffusion models have gained popularity due to their effectiveness in various cr
 ### Results
 
 ### Forward and Reverse Diffusion Processes for Swiss Roll Data
-![Forward Diffusion](image/spiral_forward.png)
+![Forward Diffusion](image/spiral forward diffusion (colored).png)
 *Figure 1: The forward diffusion process for Swiss Roll data.*
 
-![Reverse Diffusion](image/spiral_reverse.png)
+![Reverse Diffusion](image/spiral reverse diffusion (colored).png)
 *Figure 2: The reverse diffusion process for Swiss Roll data.*
