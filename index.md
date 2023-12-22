@@ -15,6 +15,11 @@
 <img src="images/forecasted vs actual.png?raw=true"/>
 
 ---
+[Reverse Diffusion on 2D Swiss Roll Data](/project_diffusion_2D.md)
+
+<img src="images/spiral reverse diffusion (colored).png?raw=true"/>
+
+---
 [Amazon Fake Review Classification](/project_FARS.md)
 
 <img src="images/Streamlit Demo.gif?raw=true"/>
