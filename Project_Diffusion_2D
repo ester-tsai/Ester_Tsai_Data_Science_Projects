@@ -1,0 +1,17 @@
+## Reverse Diffusion on 2D Swiss Roll Data
+
+[Research Report](https://github.com/ester-tsai/diffusion_model_spiral_data/blob/main/Reverse%20Diffusion%20on%202D%20Spirals.pdf) 
+
+[Github Repo](https://github.com/ester-tsai/diffusion_model_spiral_data)
+
+### Introduction
+Diffusion models have gained popularity due to their effectiveness in various creative and practical applications. They have been extensively used in text-to-image generation, layout-to-image generation, image inpainting, and resolution enhancement. Our project simplifies the application of diffusion models to a 2D dataset, specifically the Swiss roll dataset, aiming to clarify the mathematical and visual concepts behind how a basic diffusion model operates.
+
+### Results
+
+### Forward and Reverse Diffusion Processes for Swiss Roll Data
+![Forward Diffusion](image/spiral_forward.png)
+*Figure 1: The forward diffusion process for Swiss Roll data.*
+
+![Reverse Diffusion](image/spiral_reverse.png)
+*Figure 2: The reverse diffusion process for Swiss Roll data.*
