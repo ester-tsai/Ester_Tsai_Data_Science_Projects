@@ -3,7 +3,7 @@
 ---
 [Algorithmic Trading for Gold and Gold Miner ETFs](/project_algorithmic_trading.md)
 
-<img src="images/forecasted vs actual.png?raw=true"/>
+<img src="images/Strategy Involving GDX buy and sell thresholds (crop margin) (2).png?raw=true"/>
 
 ---
 
@@ -12,7 +12,7 @@
 ---
 [Amazon Risk Analysis and Forecast](/project_Amazon.md)
 
-<img src="images/Streamlit Demo.gif?raw=true"/>
+<img src="images/forecasted vs actual.png?raw=true"/>
 
 ---
 [Amazon Fake Review Classification](/project_FARS.md)
