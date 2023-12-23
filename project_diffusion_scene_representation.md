@@ -5,6 +5,7 @@
 ### Project Overview
 
 Elevator Pitch Video: 
+
 [![Elevator Pitch](https://img.youtube.com/vi/V5Za7lvA5lE/0.jpg)](https://www.youtube.com/watch?v=V5Za7lvA5lE)
 
 The ability of latent diffusion models (LDMs) to generate realistic images from textual descriptions has seen remarkable advancements. Even when trained purely on images without explicit depth information, they typically output coherent pictures of 3D scenes. These models have the astonishing capacity to create detailed, coherent scene representations. 
