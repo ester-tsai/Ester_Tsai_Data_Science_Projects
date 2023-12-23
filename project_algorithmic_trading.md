@@ -1,11 +1,11 @@
-## Algorithmic Trading for Gold and Gold Miner ETFs
+# Algorithmic Trading for Gold and Gold Miner ETFs
 
 Note: project is in progress!
 
-### Project Overview
+## Project Overview
 The goal of this algorithmic trading experiment is to predict (or provide strong signals for) buying and selling points in the UGL stock based on gold miner ETFs. My dad and I worked on this project together; he pinpointed the relationship between the ETFs, while I built the algorithm from scratch and streamlined the predicting process using Python. So far, our algorithm does a better job showing signals for buying points than selling points.
 
-### Results
+## Results
 
 Comparing 3 different strategies over a period of 13 years:
 - Buy and Hold (139.04% gain)
