@@ -14,13 +14,15 @@
 <img src="images/bike figures.png?raw=true"/>
 
 ---
-## Machine Learning
+## Machine Learning - Predictive Forecasting
 ---
 
 [Amazon Risk Analysis and Forecast](/project_Amazon.md)
 
 <img src="images/forecasted vs actual.png?raw=true"/>
 
+---
+## Machine Learning - Natural Language Processing
 ---
 
 [Amazon Fake Review Classification](/project_FARS.md)
