@@ -1,6 +1,6 @@
-## Amazon Fake Review Machine Learning Classification
+# Amazon Fake Review Machine Learning Classification
 
-### Project Overview
+## Project Overview
 For this project, the student team (Aditya Agrawal, Ester Tsai, Kelly Park, Sukanya Krishna) was given manay large datasets of Amazon product reviews, which contain details such as the review title, review text body, star rating, how many people voted “helpful,” and the time the review was posted.
 
 **Verified** = product was bought on Amazon 
@@ -10,19 +10,19 @@ For this project, the student team (Aditya Agrawal, Ester Tsai, Kelly Park, Suka
 We sought to answer the question:
 *How well can we predict whether a review comes from a verified purchase or not?*
 
-### Dataset Description
+## Dataset Description
 The team used US Amazon Customer Reviews datasets from Amazon archives. The reviews were taken over the span of the years 2014 - 2015.
 
 The collection of reviews is organized into sub datasets for each product category. The collection contained datasets for 46 different product categories, and each dataset contains 15 features for each review. 
 
-### Analysis
-#### KNN Classification
+## Analysis
+### KNN Classification
 - Assigned weights to parameters or the contributions of each data point referencing a review.
 - Used weights so that nearer neighbors contribute more than distant ones (weight based on distance formula) 
 - Applied VADER sentiment analysis to compute the polarity scores (sentiment) for the reviews
 - Cons: “majority voting” when class distribution is skewed so need to weight classification
 
-#### Random Forest Classification + Bigrams
+### Random Forest Classification + Bigrams
 - Cleaned review body (remove stop words, html tags, punctuations, numbers; lowercase + lemmatize) 
 - Converted review into list of bigrams (each pair of words)
 - Engineered features to quantify “fakeness”
