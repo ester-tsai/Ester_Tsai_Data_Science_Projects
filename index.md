@@ -52,6 +52,12 @@
 <img src="images/example dashboard 1.PNG?raw=true"/>
 
 ---
+
+[Interactive Visualizations Using JavaScript D3.js](/project_javascript.md)
+
+<img src="images/Airbnb SD Neighborhood Map.gif?raw=true"/>
+
+---
 ## Data Analysis
 ---
 
