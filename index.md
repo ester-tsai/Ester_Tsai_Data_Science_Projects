@@ -1,6 +1,6 @@
 # Data Science Project Portfolio
 ---
-## Deep Learning
+## Deep Learning - Diffusion Models
 ---
 
 [Reverse Diffusion on 2D Swiss Roll Data](/project_diffusion_2D.md)
