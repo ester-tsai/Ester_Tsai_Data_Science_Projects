@@ -1,6 +1,6 @@
-## Database Management Task Automation
+# Database Management Task Automation
 
-### Project Overview
+## Project Overview
 For my Database Management internship at Easy Event Planning, I worked directly under the CEO, Kathleen Kilmer, to automate tasks that used to be manual and time-consuming. I picked up Python web scraping and advanced Excel to expedite repetitive manual processes such as data collection, data preparation, and data validation, then wrote instructions and held training sessions for the team of seven students. Because I care about the company's objective and the quality of task results, the CEO trusted me with tasks she would normally assign to her Database Management employee and gave me precious opportunities to update the company's Main Database. The CEO loved how I care enough to go beyond the bare minimum and imagine bigger possibilities, stating how it was one of her best decisions to appoint me as team lead.
 
 One of the tasks involved identifying which interns' SEO works helped advance the company's focus keywords and web pages to the first page of Google each week. This was a complicated, multi-stepped task that I tackled on and solved using Google Sheets, Excel, and Jupyter Notebook. Because this is a crucial task that needs to be done weekly, the CEO asked me to train the next cohort of interns, so they can carry on performing this task. In order to make it easier for the next cohort, I created a Python data appending template, an instructions document, and a tutorial video, then Zoom-called the interns to make sure they know how to use these resources. 
