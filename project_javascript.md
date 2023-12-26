@@ -2,7 +2,7 @@
 
 ## Result
 
-Click [here](https://rawcdn.githack.com/ester-tsai/Airbnb-Visualizations-With-D3.js/main/SD_Airbnb_Data_Visualization.html) to interact with the visualizations
+Click [HERE](https://rawcdn.githack.com/ester-tsai/Airbnb-Visualizations-With-D3.js/main/SD_Airbnb_Data_Visualization.html) to interact with the visualizations
 
 ## Example Visualizations
 
