@@ -2,7 +2,9 @@
 
 [Research Webpage](https://ester-tsai.github.io/diffusion-model-internal-representation/)
 
-[Research Poster](pdf/Capstone.pdf)
+[Research Poster](pdf/Capstone_Poster.pdf)
+
+<img src="images/Capstone.png?raw=true"/>
 
 ### Project Overview
 
