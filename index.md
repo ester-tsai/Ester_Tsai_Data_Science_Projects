@@ -3,15 +3,16 @@
 ## Deep Learning - Diffusion Models
 ---
 
+[Diffusion Model Scene Representation](/project_diffusion_scene_representation.md)
+
+<img src="images/Capstone.png?raw=true"/>
+
+---
+
 [Reverse Diffusion on 2D Swiss Roll Data](/project_diffusion_2D.md)
 
 <img src="images/spiral forward diffusion (colored).png?raw=true"/>
 <img src="images/spiral reverse diffusion (colored).png?raw=true"/>
-
----
-[Diffusion Model Scene Representation](/project_diffusion_scene_representation.md)
-
-<img src="images/bike figures.png?raw=true"/>
 
 ---
 ## Machine Learning - Predictive Forecasting
