@@ -1,6 +1,8 @@
 ## Diffusion Model Scene Representation 
 
-[Research Result Webpage](https://ester-tsai.github.io/diffusion-model-internal-representation/)
+[Research Webpage](https://ester-tsai.github.io/diffusion-model-internal-representation/)
+
+[Research Poster](pdf/B11-1 Capstone Poster.pdf)
 
 ### Project Overview
 
